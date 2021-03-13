@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "517953876920",
+    "firebase_url": "https://emattevan-1595010777338.firebaseio.com",
+    "project_id": "emattevan-1595010777338",
+    "storage_bucket": "emattevan-1595010777338.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517953876920:android:78d72f530ce6ccde16154d",
+        "android_client_info": {
+          "package_name": "com.example.ecommermattevan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517953876920-n5q6h5l502f84iok1stjps3o1h24bfbo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecommermattevan",
+            "certificate_hash": "36816899abaed58854f59c8298af2363f104fe5e"
+          }
+        },
+        {
+          "client_id": "517953876920-t4sam8trjnis37nkb39sgacgm777e6vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFjArVHtZtHJdlrwtSEyw7Io-FXO26O_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517953876920-t4sam8trjnis37nkb39sgacgm777e6vg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
